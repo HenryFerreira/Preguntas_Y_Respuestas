@@ -4,6 +4,6 @@ package Lógica.Controladores.Interfaces;
  *
  * @author Haff
  */
-public interface Categorias {
+public interface Cont_Usuarios {
     
 }

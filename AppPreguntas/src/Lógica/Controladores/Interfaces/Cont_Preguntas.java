@@ -4,6 +4,6 @@ package Lógica.Controladores.Interfaces;
  *
  * @author Haff
  */
-public interface Usuarios {
+public interface Cont_Preguntas {
     
 }
